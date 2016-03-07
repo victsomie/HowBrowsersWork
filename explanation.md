@@ -3,8 +3,8 @@
 
 ## Content of study
 1. Available-Browsers. 
-     1.0. List if browsers
-     1.1. Statistic on browsers
+     * 1.0. List if browsers
+     * 1.1. Statistic on browsers
 2. Browser-Structure
 3. Main components of browsers
 4. Rendering Engine and flow
