@@ -14,14 +14,6 @@
   2.1. http://skillcrush.com/2013/02/24/how-browsers-work/
   
 
-```javascript
-function test() {
-console.log("look ma’, no spaces");
-}
-```
-
-
-
 
 
 Main components of a browser are:
