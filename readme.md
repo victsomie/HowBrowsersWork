@@ -1,0 +1,1 @@
+# This is information on tthe working of browsers
