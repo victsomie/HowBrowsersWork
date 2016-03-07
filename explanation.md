@@ -10,7 +10,9 @@
 4. Rendering Engine and flow
 5. Webkit v/s Gecko 
 6. Resources
+
   1.0. https://dzone.com/articles/how-browsers-work-behind
+  
   2.1. http://skillcrush.com/2013/02/24/how-browsers-work/
   
 
